@@ -1,10 +1,8 @@
 # Elizabeth Fagundes <img src="https://i.pinimg.com/originals/4e/d7/ee/4ed7ee6c14965c5ae442f1baa8251560.gif" width="60px">
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong> Eliz</strong>, <strong> estou iniciando na área. </strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+Atualmente estou cursando: <strong> Análise e Desenvolvimento de Sistemas. </strong> 
 
 <div align="center">
 
