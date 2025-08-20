@@ -1,4 +1,4 @@
-# [Elizabeth Fagundes] <img src="https://i.pinimg.com/originals/4e/d7/ee/4ed7ee6c14965c5ae442f1baa8251560.gif" width="30px">
+# Elizabeth Fagundes <img src="https://i.pinimg.com/originals/4e/d7/ee/4ed7ee6c14965c5ae442f1baa8251560.gif" width="30px">
 
 Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
